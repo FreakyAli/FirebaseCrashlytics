@@ -1,20 +1,11 @@
-﻿using Crashlytics.Models;
-using Crashlytics.ViewModels;
-using Crashlytics.Views;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Crashlytics.ViewModels;
 using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
 
 namespace Crashlytics.Views
 {
     public partial class ItemsPage : ContentPage
     {
-        ItemsViewModel _viewModel;
+        private ItemsViewModel _viewModel;
 
         public ItemsPage()
         {

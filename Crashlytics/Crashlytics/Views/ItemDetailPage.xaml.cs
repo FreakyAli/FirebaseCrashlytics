@@ -1,5 +1,4 @@
 ﻿using Crashlytics.ViewModels;
-using System.ComponentModel;
 using Xamarin.Forms;
 
 namespace Crashlytics.Views

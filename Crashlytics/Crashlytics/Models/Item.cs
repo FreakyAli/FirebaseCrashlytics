@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Crashlytics.Models
+﻿namespace Crashlytics.Models
 {
     public class Item
     {
